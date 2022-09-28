@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaden Stanton
 =====================================================================================================================================
 
-Fullstack developer and Computer Science Student
+Fullstack developer (in training) and Computer Science Student
 ------------------------------------------------
 I've been learning to code for 4 years. My heart lies in back-end, but after my most recent internship I've found a love for front-end.
 * 🌍  I'm based in New Orleans
