@@ -8,7 +8,7 @@ I've been learning to code for 4 years. My heart lies in back-end, but after my 
 * ✉️  You can contact me at [Jaden.stanton6@gmail.com](mailto:Jaden.stanton6@gmail.com)
 * 🧠  I'm learning new Python and JavaScript frameworks
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  My side interest right now is Machine Learning
+* ⚡  My side interest right now is PC Gaming
 
 <a href="https://www.github.com/Jadenstanton" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jadenstanton?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
