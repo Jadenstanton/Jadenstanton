@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaden Stanton
 =====================================================================================================================================
-Developer and Computer Science Student
+Developer
 --------------------------------------------------------------
-I've been learning to code for 4 years. My heart lies in back-end, but after my most recent internship I've found a love for front-end.
+I've been learning to code for 5 years. I have a respect and love for front-end but my expertise lies in back-end.
 * * 🌍  I'm based in New Orleans
 * * ✉️  You can contact me at [Jaden.stanton6@gmail.com](mailto:Jaden.stanton6@gmail.com)
-* * 🧠  I'm learning React right now
+* * 🧠  I'm currently learning Spark and Databricks.
 * * 🤝  I'm open to collaborating on Interesting projects
-* * ⚡  My side interest right now is DSA and One Piece
+* * ⚡  My side interests are One Piece, skateboarding, and aquascaping!
 
 <a href="https://www.github.com/Jadenstanton" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jadenstanton?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
