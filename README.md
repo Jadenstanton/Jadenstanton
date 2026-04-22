@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning operating systems and networking<br>🎯 Goals: learn vim, low level programming, switch to arch linux, find the One Piece 🏴‍☠️<br>🎲 Fun fact: life long skater 🛹 and artist 🎨</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning operating systems and networking<br>🎯 Goals: learn systems programming, learn Rust, find the One Piece 🏴‍☠️<br>🎲 Fun fact: life long skater 🛹 and artist 🎨</p>
 
 ###
 
